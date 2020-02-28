@@ -1,0 +1,78 @@
+[
+    {
+        "title" : "默认",
+        "filter" : "Normal"
+    },
+    {
+        "title" : "二分",
+        "filter" : "SplitScreen_2"
+    },
+    {
+        "title" : "四分",
+        "filter" : "SplitScreen_4"
+    },
+    {
+        "title" : "九分",
+        "filter" : "SplitScreen_9"
+    },
+    {
+        "title" : "灰度",
+        "filter" : "Gray"
+    },
+    {
+        "title" : "暖色",
+        "filter" : "Warm"
+    },
+    {
+        "title" : "冷色",
+        "filter" : "Cord"
+    },
+    {
+        "title" : "漩涡",
+        "filter" : "Vortex"
+    },
+    {
+        "title" : "矩形马赛克",
+        "filter" : "rectangleMosaic"
+    },
+    {
+        "title" : "六边形马赛克",
+        "filter" : "HexagonMosaic"
+    },
+    {
+        "title" : "三角形马赛克",
+        "filter" : "TriangleMosaic"
+    },
+    {
+        "title" : "圆形形马赛克",
+        "filter" : "circleMosaic"
+    },
+    {
+        "title" : "缩放",
+        "filter" : "scale"
+    },
+    {
+        "title" : "闪白",
+        "filter" : "flash"
+    },
+    {
+        "title" : "抖动",
+        "filter" : "shake"
+    },
+    {
+        "title" : "灵魂出窍",
+        "filter" : "soulOut"
+    },
+    {
+        "title" : "毛刺",
+        "filter" : "skinNeed"
+    },
+    {
+        "title" : "幻觉",
+        "filter" : "hallucinat"
+    },
+    {
+        "title" : "浮雕",
+        "filter" : "relief"
+    }
+]
